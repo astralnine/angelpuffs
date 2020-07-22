@@ -1,0 +1,213 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    background-color: #fbf4f9;
+    overflow-x:hidden;
+
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+hr {
+    border-color: #af7ba2;
+    border-style: none;
+    border-top-style: dotted;
+    filter: opacity(50%);
+
+
+
+    border-width: 5px;
+    width: 5%;
+}
+
+/* --fit-content-candy wrapper */
+
+
+.logo-background {
+    background-color: #1b262c;
+    width: 100%;
+}
+
+
+
+.nav li {
+    display: inline;
+    font-size: x-large;
+    color: black;
+}
+
+.nav img {
+    position: relative;
+    top: 7px;
+}
+
+.nav a {
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    padding: .8em;
+    color: #1b262c;
+    font-weight: bolder;
+}
+
+.nav a:hover {
+    color: white;
+
+}
+
+
+
+.nav-position {
+    text-align: center;
+    margin: 0
+}
+
+.main-nav {
+    background-color: #ffe0f7;
+}
+
+.macaron {
+    height: 30px;
+    width: 30px;
+    /* position: relative;
+    left: 540px;
+    top: 65px; */
+
+
+}
+
+.top-section {
+    font-size: xx-large;
+
+
+}
+
+.middle-section {
+    font-size: larger;
+}
+
+.store-hours {
+    font-size: large;
+}
+
+.bottom-section {
+    font-size: larger;
+}
+
+.bottom-footer {
+    background-color: #1b262c;
+    padding-top: 20px;
+    padding-bottom: 2px;
+
+
+}
+
+.visit {
+    color: #af7ba2;
+
+}
+
+.copyright {
+    text-align: right;
+    text-decoration: none;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+.img-link1 {
+    text-decoration: none;
+    position: relative;
+    right: 15px;
+
+}
+
+
+
+.img-link2 {
+    text-decoration: none;
+
+}
+
+
+
+.img-link3 {
+    text-decoration: none;
+    position: relative;
+    left: 15px;
+
+}
+
+.button {
+    color: #ffe0f7;
+    background-color: #1b262c;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    border: none;
+    font-size: 20px;
+    padding: 16px 16px;
+    border-radius: 12px;
+    width: 200px;
+    text-decoration: none;
+
+
+}
+
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.productlist {
+    list-style-type: none;
+    text-align: center;
+    text-indent: -1.5%;
+    font-size: 200%;
+
+
+}
+
+.bottom-section2 {
+    background-color: #ffe0f7;
+    padding-bottom: 1%;
+
+
+}
+
+.popular {
+    font-size: xx-large;
+    background-color: #1b262c;
+    color: #ffe0f7;
+
+}
+
+.top-footer2 {
+    background-color: #ffe0f7;
+    padding-top: 10px;
+
+}
+
+.more {
+    background-color: #ffe0f7;
+
+}
+
+.call {
+    font-size: xx-large;
+
+}
